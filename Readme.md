@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/XLExportExample/Form1.cs) (VB: [Form1.vb](./VB/XLExportExample/Form1.vb))
+* [InvoiceData.cs](./CS/XLExportExample/InvoiceData.cs) (VB: [InvoiceData.vb](./VB/XLExportExample/InvoiceData.vb))
+<!-- default file list end -->
 # How to use the Excel Export API to generate an invoice
 
 
