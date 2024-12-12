@@ -11,6 +11,9 @@ This example demonstrates how to use the [Excel Export API](https://documentatio
 
 ![image](./media/e123859d-0e95-11e5-80bf-00155d62480c.png)
 
+> [!Important]  
+> The Universal Subscription or an additional Office File API Subscription is required to use this example in production code. For pricing information, please refer to the [DevExpress Subscription](https://www.devexpress.com/Subscriptions/) page.  
+
 ## Implementation Details
 
 In particular, this example introduces API properties and methods used to perform the following operations:
